@@ -1,4 +1,4 @@
-# Revenue Analysis Dashboard
+# RevTrack Pro
 
 ## Overview
 This project leverages Tableau to conduct a comprehensive revenue analysis for a business. The interactive dashboard displays key metrics such as total revenue, sales quantity, revenue by markets, sales quantity by markets, yearly revenue trends, top customers, and top products. This enables stakeholders to make data-driven decisions and identify growth opportunities.
